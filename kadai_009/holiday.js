@@ -4,8 +4,6 @@ for (let i = 0; i < holidays.length; i++) {
     console.log(holidays[i]);
 }
 
-console.log('');
-
 let i = 0;
 while (i < holidays.length) {
     console.log(holidays[i]);
